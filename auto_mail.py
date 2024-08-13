@@ -1,6 +1,5 @@
 # prompt: create an email parser who monitors the inbox analize the data and put it in a dataframe do not hardcode email account and password, extract name email addresses, phonenumbers date of births company, company adress company phone home address chamber of comerse btw numbers from body and put it in a database
 
-!pip install imapclient spacy nltk
 
 import imaplib
 import email
